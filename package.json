@@ -1,0 +1,40 @@
+{
+    "name": "animated-full",
+    "version": "1.1.1",
+    "description": "Full version of animation javascript",
+    "homepage": "",
+	"module": "index.js",
+	"main": "dist/gsap.js",
+    "types": "types/index.d.ts",
+	"sideEffects": false,
+    "keywords": [
+		"animated",
+		"trial",
+		"GreenSock",
+		"animation",
+		"MotionPathPlugin",
+		"matchMedia",
+		"motion",
+		"motionPath",
+		"ScrollTrigger",
+		"ScrollSmoother",
+		"Observer",
+		"easing",
+		"JavaScript",
+		"PixiPlugin",
+		"CustomEase",
+		"Flip",
+		"SVG",
+		"3D",
+		"2D",
+		"transform",
+		"morph",
+		"morphing",
+		"drawSVG",
+		"tweening"
+   ],
+
+  "license": "",
+
+
+}
