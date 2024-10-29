@@ -92,7 +92,7 @@ declare module "gsap/src/all" {
   export { gsap as default } from "gsap/all";
 }
 
-declare module "gsap-trial" {
+declare module "animated-full" {
   export * from "gsap/gsap-core";
   export { gsap as default } from "gsap/gsap-core";
 }
